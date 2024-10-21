@@ -1,6 +1,9 @@
 # IDE
 .idea/
 
+# Coverage
+.coverage
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
